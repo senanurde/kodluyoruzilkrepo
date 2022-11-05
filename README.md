@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 nstallation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-
+https://github.com/senanurde/kodluyoruzilkrepo.git
 git clone 
 Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
