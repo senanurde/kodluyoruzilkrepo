@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ```bash
 git clone https://github.com/senanurde/kodluyoruzilkrepo.git
 ```
-https://imgyukle.com/f/2022/11/05/JRstJ8.png
+
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
